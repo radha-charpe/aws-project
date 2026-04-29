@@ -1,5 +1,6 @@
 Step 1 : create security group
  
+
 Step 2 : Launch EC2 instance (Ubuntu) and connect it
  
 
